@@ -40,7 +40,7 @@ A full-stack e-commerce marketplace application built with React.js and Node.js,
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/maruthi-venkat/marketplace-app/
 cd marketplace_app
 ```
 
